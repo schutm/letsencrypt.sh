@@ -36,6 +36,9 @@
 # File containing the list of domains to request certificates for (default: $BASEDIR/domains.txt)
 #DOMAINS_TXT="${BASEDIR}/domains.txt"
 
+# Directory containing the per domain configuration file (default: $BASEDIR/certs)
+#DOMAINS_D="${BASEDIR}/certs"
+
 # Output directory for generated certificates
 #CERTDIR="${BASEDIR}/certs"
 
